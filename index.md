@@ -47,5 +47,15 @@
   </tr>
 </table>
 
+<pre>
+See on minu laupäevane päevakava. Nagu seal on näha, siis ärkan kell 10:00 ning süün hommikustkell 10:30.
+Peale seda õpin kuni lõunasöögini ning seejärel lähen koos sõpradega kinno.
+Peale kino läheme koos Restorani õhtust sööma ning peale koju jõudmist teeen veel kaks tundi koduseid töid.
+Peale Koduste tööde lõpetamist puhkan, vaadates televiisorit või perega aega veetes. 
+Kell 23.00 lähen magama.
+</pre>
+<a href="https://www.ttu.ee/">Minu ülikooli koduleht</a>
+<img src="http://www.ecb.ee/wp-content/uploads/2019/04/TalTech-sisehoov.jpg">
+
 </body>
 </html>
