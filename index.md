@@ -14,35 +14,35 @@
     <td>Äratus</td>
   </tr>
   <tr>
-    <td:10:30</td>
+    <td>10:30</td>
     <td>Hommmikusöök</td>
   </tr>
   <tr>
-    <td:11:00</td>
+    <td>11:00</td>
     <td>Õppimine</td>
   </tr>
   <tr>
-    <td:14:30</td>
+    <td>14:30</td>
     <td>Lõunasöök</td>
   </tr>
   <tr>
-    <td:15:00</td>
+    <td>15:00</td>
     <td>Kino</td>
   </tr>
   <tr>
-    <td:18:00</td>
+    <td>18:00</td>
     <td>Õhtusöök</td>
   </tr>
   <tr>
-    <td:19:00</td>
+    <td>19:00</td>
     <td>Õppimine</td>
   </tr>
   <tr>
-    <td:21:00</td>
+    <td>21:00</td>
     <td>Puhkus</td>
   </tr>
   <tr>
-    <td:23:00</td>
+    <td>23:00</td>
     <td>Magama</td>
   </tr>
 </table>
